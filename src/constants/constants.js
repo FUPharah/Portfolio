@@ -26,13 +26,22 @@ export const projects = [
     visit: 'https://644535280e762e30b0928fe4--peaceful-longma-40feaa.netlify.app/',
     id: 2,
   },
+  {
+    title: 'Messaging App',
+    description:"Real-Time messaging app that allows users to chat with each other.",
+    image: '/images/msg.png',
+    tags: ['Next-JS 13','|','React','|','Tailwind','|',"MongoDB",'|','NextAuth',"|",'Pusher',"|",'Prisma'],
+    source: 'https://github.com/FUPharah/messaging-app',
+    visit: 'https://messaging-app-inky.vercel.app/',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
   { year: 2017, text: 'Got Bachelor of Arts in Chinese Language and Literature' },
   { year: 2018, text: 'Went to China for further studying' },
   { year: 2019, text: "Started Master's Degree in International Trade" },
-  { year: 2021, text: 'Got CELTA from Cambridge' },
+  { year: 2021, text: 'Got CELTA certificate from Cambridge Assessment' },
   { year: 2022, text: "Completed Master's Degree online while working as a translator and sales representative" },
-  { year: 2023, text: 'Quit my job, started Le Wagon Bootcamp, and graduated' },
+  { year: 2023, text: 'Started Le Wagon Bootcamp, and graduated' },
 ];
