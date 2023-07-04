@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Messaging App',
-    description:"Real-Time messaging app that allows users to chat with each other.",
+    description:"A messaging app that allows users to chat with each other in real-time and also to create new chat rooms.",
     image: '/images/msg.png',
     tags: ['Next-JS 13','|','React','|','Tailwind','|','MongoDB','|','Pusher','|','Prisma'],
     source: 'https://github.com/FUPharah/messaging-app',
