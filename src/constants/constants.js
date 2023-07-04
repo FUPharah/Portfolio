@@ -30,7 +30,7 @@ export const projects = [
     title: 'Messaging App',
     description:"Real-Time messaging app that allows users to chat with each other.",
     image: '/images/msg.png',
-    tags: ['Next-JS 13','|','React','|','Tailwind','|','MongoDB','|','Pusher','|','Next-Auth'],
+    tags: ['Next-JS 13','|','React','|','Tailwind','|','MongoDB','|','Pusher','|','Prisma'],
     source: 'https://github.com/FUPharah/messaging-app',
     visit: 'https://messaging-app-inky.vercel.app/',
     id: 3,
