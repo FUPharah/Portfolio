@@ -23,9 +23,10 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Learning is a never ending process.
+          <Slogan>
+            Learning is a never ending process.
             <br />
-          Building better web experiences, one project at a time.
+            Building better web experiences, one project at a time.
           </Slogan>
         </CompanyContainer>
         <SocialIcons href="https://github.com/FUPharah" target='_blank'>

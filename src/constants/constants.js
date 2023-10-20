@@ -35,6 +35,24 @@ export const projects = [
     visit: 'https://messaging-app-inky.vercel.app/',
     id: 3,
   },
+  {
+    title: 'E-Commerce Admin Dashboard',
+    description:"An e-commerce website admin dashboard is a centralized web interface that provides administrators with tools and features to manage and monitor various aspects of an online store. ",
+    image: '/images/admin.png',
+    tags: ['Next-JS 13','|','App Router','|','React','|','Tailwind','|','MySQL','|','Prisma'],
+    source: 'https://github.com/FUPharah/ecommerce',
+    visit: 'https://ecommerce-sooty-gamma.vercel.app/',
+    id: 4,
+  },
+  {
+    title: 'E-Commerce Website',
+    description:"An e-commerce website connected to the admin dashboard and functions as the front-end or customer-facing side of the online store.",
+    image: '/images/shop.png',
+    tags: ['Next-JS 13','|','App Router','|','React','|','Tailwind', '|','Clerk'],
+    source: 'https://github.com/FUPharah/ecommerce-shop',
+    visit: 'https://ecommerce-shop-fawn.vercel.app/',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
